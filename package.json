@@ -1,0 +1,19 @@
+{
+  "name": "@stutommi/arena-types",
+  "version": "1.0.0",
+  "description": "type definitions for typescript project",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stutommi/arena-types.git"
+  },
+  "author": "Tommi Tampio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stutommi/arena-types/issues"
+  },
+  "homepage": "https://github.com/stutommi/arena-types#readme"
+}
